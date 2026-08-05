@@ -1,5 +1,5 @@
 # CCM101-rjmeim
-**Student:** (Your Full Name)  
+**Student:** RONALD JOEL MEIM 
 **GitHub:** mmeiarj34419  
 **Repository:** CCM101-rjmeim
 
