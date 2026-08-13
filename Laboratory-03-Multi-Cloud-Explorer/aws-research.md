@@ -8,10 +8,10 @@ Amazon Web Services has 39 geographic regions around the world with 123 backup s
 You can manage AWS through a AWS Management Console website 
 
 ● Four (4) Core Services - 
-1. Lambda - Upload your code and it runs automatically.
-2. S3 - A super storage with almost unlimited upload storage for files.
-3. EC2- A virtual computer you can use anytime to run instances.
-4. RDS - Also knows as Ready to Use Database a database instance with no installation and maintenance.
+1. Lambda 
+2. S3 
+3. EC2
+4. RDS 
    
 ● Three (3) Advantages -
 1. Lots of Features
