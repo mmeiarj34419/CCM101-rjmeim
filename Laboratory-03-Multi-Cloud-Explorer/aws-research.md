@@ -8,10 +8,10 @@ Amazon Web Services has 39 geographic regions around the world with 123 backup s
 You can manage AWS through a AWS Management Console website 
 
 ● Four (4) Core Services - 
-1. Lambda 
-2. S3 
-3. EC2
-4. RDS 
+1. AWS Lambda 
+2. Amazon S3 
+3. Amazon EC2
+4. Amazon RDS 
    
 ● Three (3) Advantages -
 1. Lots of Features
