@@ -2,7 +2,7 @@
 Amazon Web Services is like the largest computer rental in the world from the amazon shopping. You could rent a computer, storage, database and a lot more.
 
 ● Global Infrastructure -
-Amazon Web Services has 39 main location around the world with 123 backup sites.
+Amazon Web Services has 39 geographic regions around the world with 123 backup sites.
 
 ● Cloud Management Console -
 You can manage AWS through a AWS Management Console website 
