@@ -1,4 +1,4 @@
-
+Checkpoint 3 – Compare the Major Cloud Platforms
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 | :--- | :---: | :---: | :---: |
 | Launch Year | | | |
