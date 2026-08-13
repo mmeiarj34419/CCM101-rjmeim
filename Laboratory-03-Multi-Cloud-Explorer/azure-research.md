@@ -11,5 +11,7 @@
 4. Azure SQL
    
 ● Three (3) Advantages
-
+1.
+2.
+3.
 ● Typical Enterprise Use Cases
