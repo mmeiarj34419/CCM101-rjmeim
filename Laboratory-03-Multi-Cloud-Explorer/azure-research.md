@@ -1,7 +1,6 @@
-● Brief Overview
+● Brief Overview - Cloud Platform developed by Microsoft which integrates other Microsoft apps like Office 365, Outlook and many more.
 
-● Global Infrastructure
-
+● Global Infrastructure - 
 ● Cloud Management Console
 
 ● Four (4) Core Services
