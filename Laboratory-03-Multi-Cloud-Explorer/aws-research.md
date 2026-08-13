@@ -1,23 +1,23 @@
-● Brief Overview
+● Brief Overview -
 Amazon Web Services is like the largest computer rental in the world from the amazon shopping. You could rent a computer, storage, database and a lot more.
 
-● Global Infrastructure
+● Global Infrastructure -
 Amazon Web Services has 39 main location around the world with 123 backup sites.
 
-● Cloud Management Console
+● Cloud Management Console -
 You can manage AWS through a AWS Management Console website 
 
-● Four (4) Core Services
+● Four (4) Core Services - 
 1. Lambda - Upload your code and it runs automatically.
 2. S3 - A super storage with almost unlimited upload storage for files.
 3. EC2- A virtual computer you can use anytime to run instances.
 4. RDS - Also knows as Ready to Use Database a database instance with no installation and maintenance.
    
-● Three (3) Advantages
+● Three (3) Advantages -
 1. Lots of Features
 2. Reliable and has a wide coverage.
 3. Experienced in the industry and developed by a big company.
 
-● Typical Enterprise Use Cases
+● Typical Enterprise Use Cases -
 It is typically use for websites, mobile apps, AI, data storage and backup of critical systems.
 
