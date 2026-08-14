@@ -15,5 +15,5 @@
 2. High Company Reliability 
 3. AI Integration on the model.
 
-● Typical Enterprise Use Cases
+● Typical Enterprise Use Cases - 
 Microsoft Azure is often use to build and regulate an enterprise applications by migrating Windows and SQL Workloads.
