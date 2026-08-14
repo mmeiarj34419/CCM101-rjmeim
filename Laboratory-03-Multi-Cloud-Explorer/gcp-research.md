@@ -1,11 +1,18 @@
-● Brief Overview
+● Brief Overview - 
 
-● Global Infrastructure
+● Global Infrastructure - 
 
-● Cloud Management Console
+● Cloud Management Console - 
 
 ● Four (4) Core Services
+1.
+2.
+3.
+4.
 
 ● Three (3) Advantages
+1.
+2.
+3.
 
 ● Typical Enterprise Use Cases
