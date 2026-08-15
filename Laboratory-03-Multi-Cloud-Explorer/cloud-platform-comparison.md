@@ -9,7 +9,7 @@ Checkpoint 3 – Compare the Major Cloud Platforms
 | Ideal Organizations |Startups and growing businesses |Microsoft-based companies and institutions |Organizations focused on AI, data, and modern applications |
 
 1. Which cloud provider offers the broadest range of services?
-> AWS VPC have the broadest range of services as a cloud provider, it offers a lot of tools  for computing, storage, networking, databases and security.
+> AWS have the broadest range of services as a cloud provider, it offers a lot of tools  for computing, storage, networking, databases and security.
 
 2. Which provider best integrates with Microsoft technologies?
 >
