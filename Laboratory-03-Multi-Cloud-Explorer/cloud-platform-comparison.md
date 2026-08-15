@@ -12,10 +12,13 @@ Checkpoint 3 – Compare the Major Cloud Platforms
 > AWS have the broadest range of services as a cloud provider, it offers a lot of tools  for computing, storage, networking, databases and security.
 
 2. Which provider best integrates with Microsoft technologies?
->
-3. Which provider is strongest in Artificial Intelligence and Kubernetes?
+> Microsoft Azure is the best to integrate with Microsoft Technologies because they are created by the same company  Microsoft making the software application usable as a cloud services such as Microsoft Server, Microsoft 365, and Active Directory/Azure AD.
 
+3. Which provider is strongest in Artificial Intelligence and Kubernetes?
+> GCP is the best cloud provider for AI and Kurbenetes. Because the kurbenetes is also develop by Google and can be integrated with Vertex AI which can help with building, training, and deployment of machine learning models.
+   
 4. Which cloud platform would you personally choose and why?
+> All of them are good platforms for cloud services, But for me I would stick with the Microsoft Azure because of its familiarity and common usage for students who are in college like me.
    
 Checkpoint 5 – Match the Cloud Services   
 | Service Category | AWS | Azure | GCP |
