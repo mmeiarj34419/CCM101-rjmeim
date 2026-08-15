@@ -16,5 +16,5 @@ Google Cloud Console is one of the most cleanest and developer friendly.
 2. Industry leading data analytics  
 3. Great if you want to use open source tools
 
-● Typical Enterprise Use Cases
+● Typical Enterprise Use Cases - 
 Google Cloud Platform is often used by an enterprise for Data Analytics and generative AI work.
