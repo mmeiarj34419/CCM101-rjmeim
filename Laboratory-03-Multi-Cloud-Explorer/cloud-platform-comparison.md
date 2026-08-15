@@ -7,10 +7,12 @@ Checkpoint 3 – Compare the Major Cloud Platforms
 | Identity Service |AWS IAM (Identity and Access Management) |Microsoft Entra ID|Cloud Identity |
 | Primary Strength |Many cloud services and worldwide availability |Strong Microsoft compatibility |AI, data processing, and modern applications |
 | Ideal Organizations |Startups and growing businesses |Microsoft-based companies and institutions |Organizations focused on AI, data, and modern applications |
+
 1. Which cloud provider offers the broadest range of services?
+> AWS VPC have the broadest range of services as a cloud provider, it offers a lot of tools  for computing, storage, networking, databases and security.
 
 2. Which provider best integrates with Microsoft technologies?
-
+>
 3. Which provider is strongest in Artificial Intelligence and Kubernetes?
 
 4. Which cloud platform would you personally choose and why?
