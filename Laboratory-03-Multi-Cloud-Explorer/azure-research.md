@@ -1,3 +1,5 @@
+<b>Checkpoint 2 – Explore the Three Cloud Platforms</b>
+
 ● Brief Overview - Cloud Platform developed by Microsoft which integrates other Microsoft apps like Office 365, Outlook and many more.
 
 ● Global Infrastructure - Microsoft Azure has the largest number of regions Over 70 geographic regions worldwide.
