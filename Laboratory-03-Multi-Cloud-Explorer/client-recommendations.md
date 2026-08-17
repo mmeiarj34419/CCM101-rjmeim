@@ -68,3 +68,17 @@ Client D – Global E-Commerce Company
 > Elastic Load Balancing (ELB) - for traffic distribution over many servers to ensure high reliability and availability.
 
 > Amazon RDS (Multi-AZ) / Amazon Aurora - for a highly available and scalable database which can fulfill global transaction volumes.
+
+Checkpoint 6 – Multi-Cloud Decision Matrix 
+
+Create a simple decision matrix recommending the best cloud provider for different business needs.
+
+  | Business Requirement |Recommended Platform | Justification |
+| :--- | :---: | :---: | 
+| Startup Company |Google Cloud Platform (GCP) |Highly generous free tiers, pay-as-you-go serverless options (Cloud Run & Firebase), and up to $200,000 to $350,000 USD in credits from the Google For Startups Cloud Program to get you up and running with financial runway. | 
+| Enterprise Organization |Amazon Web Services (AWS) |The organization should consider migrating to AWS because the cloud service provider offers a comprehensive service portfolio and geographic reach to support the most demanding enterprise workloads. | 
+| Microsoft Environment |Google Cloud Platform (GCP) |Easy single sign-on (SSO) experience via Google Cloud Directory Sync, and Sole-Tenant Nodes to Bring Your Own License (BYOL) to avoid paying for licenses twice are some of AWS’s offerings. | 
+| AI / Machine Learning |Microsoft Azure |Azure is the best option because of the compatibility with the Windows Server, Microsoft 365, and Microsoft Entra ID. | 
+| Kubernetes Deployment |Google Cloud (GCP) |Google Cloud’s TPUs allow for training deep learning and AI models up to 2-3 times faster than traditional cloud processors. | 
+| Global Web Application |Google Cloud (GCP) |Cloud Spanner ensures strong consistency, which helps avoid inventory overselling during traffic surges. | 
+
