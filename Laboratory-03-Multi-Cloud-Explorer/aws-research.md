@@ -1,3 +1,5 @@
+<b>Checkpoint 2 – Explore the Three Cloud Platforms</b>
+
 ● Brief Overview -
 Amazon Web Services is like the largest computer rental in the world from the amazon shopping. You could rent a computer, storage, database and a lot more.
 
