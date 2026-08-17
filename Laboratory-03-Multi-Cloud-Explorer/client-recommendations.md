@@ -71,12 +71,13 @@ Client D – Global E-Commerce Company
 
 Checkpoint 6 – Multi-Cloud Decision Matrix 
 
-  | Business Requirement |Recommended Platform | Justification |
-| :--- | :---: | :---: | 
-| Startup Company |Google Cloud Platform (GCP) |Highly generous free tiers, pay-as-you-go serverless options (Cloud Run & Firebase), and up to $200,000 to $350,000 USD in credits from the Google For Startups Cloud Program to get you up and running with financial runway. | 
-| Enterprise Organization |Amazon Web Services (AWS) |The organization should consider migrating to AWS because the cloud service provider offers a comprehensive service portfolio and geographic reach to support the most demanding enterprise workloads. | 
-| Microsoft Environment |Google Cloud Platform (GCP) |Easy single sign-on (SSO) experience via Google Cloud Directory Sync, and Sole-Tenant Nodes to Bring Your Own License (BYOL) to avoid paying for licenses twice are some of AWS’s offerings. | 
-| AI / Machine Learning |Microsoft Azure |Azure is the best option because of the compatibility with the Windows Server, Microsoft 365, and Microsoft Entra ID. | 
-| Kubernetes Deployment |Google Cloud (GCP) |Google Cloud’s TPUs allow for training deep learning and AI models up to 2-3 times faster than traditional cloud processors. | 
-| Global Web Application |Google Cloud (GCP) |Cloud Spanner ensures strong consistency, which helps avoid inventory overselling during traffic surges. | 
+ ## Cloud Platform Recommendations by Business Requirement
 
+| Business Requirement | Recommended Platform | Justification |
+|---|:---:|---|
+| Startup Company | Google Cloud Platform (GCP) | Startups benefit from GCP's low barrier to entry, including free-tier resources and startup credit programs (often $100K+ through Google for Startups), letting founders build and test products without heavy upfront infrastructure costs. |
+| Enterprise Organization | Amazon Web Services (AWS) | As the longest-established and most widely adopted cloud provider, AWS gives enterprises access to a mature partner ecosystem, extensive compliance certifications (HIPAA, FedRAMP, SOC 2, etc.), and the largest talent pool of certified professionals to support large-scale operations. |
+| Microsoft Environment | Microsoft Azure | Organizations already running Windows Server, Active Directory, and Microsoft 365 gain the smoothest migration path with Azure, since it's designed to extend on-premises Microsoft infrastructure into the cloud with minimal reconfiguration. |
+| AI / Machine Learning | Google Cloud (GCP) | GCP's leadership in AI research (as the birthplace of TensorFlow) combined with purpose-built TPU hardware gives it a performance and tooling edge for training and deploying large-scale machine learning models. |
+| Kubernetes Deployment | Google Cloud (GCP) | Since Google created and open-sourced Kubernetes, GKE offers the deepest platform-level integration, automated cluster management, and fastest adoption of new Kubernetes features compared to other managed offerings. |
+| Global Web Application | Google Cloud (GCP) | For applications requiring low-latency access and reliable data consistency across multiple continents, Cloud Spanner's globally distributed architecture ensures transactions stay accurate even under heavy simultaneous demand. |
