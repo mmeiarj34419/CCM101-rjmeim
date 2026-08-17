@@ -71,8 +71,6 @@ Client D – Global E-Commerce Company
 
 Checkpoint 6 – Multi-Cloud Decision Matrix 
 
-Create a simple decision matrix recommending the best cloud provider for different business needs.
-
   | Business Requirement |Recommended Platform | Justification |
 | :--- | :---: | :---: | 
 | Startup Company |Google Cloud Platform (GCP) |Highly generous free tiers, pay-as-you-go serverless options (Cloud Run & Firebase), and up to $200,000 to $350,000 USD in credits from the Google For Startups Cloud Program to get you up and running with financial runway. | 
