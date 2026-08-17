@@ -71,8 +71,6 @@ Client D – Global E-Commerce Company
 
 Checkpoint 6 – Multi-Cloud Decision Matrix 
 
- ## Cloud Platform Recommendations by Business Requirement
-
 | Business Requirement | Recommended Platform | Justification |
 |---|:---:|---|
 | Startup Company | Google Cloud Platform (GCP) | Startups benefit from GCP's low barrier to entry, including free-tier resources and startup credit programs (often $100K+ through Google for Startups), letting founders build and test products without heavy upfront infrastructure costs. |
