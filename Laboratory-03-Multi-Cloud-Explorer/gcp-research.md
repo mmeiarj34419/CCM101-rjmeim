@@ -1,3 +1,5 @@
+<b>Checkpoint 2 – Explore the Three Cloud Platforms</b>
+
 ● Brief Overview - Google Cloud Platform is built with the same backbone as the typical google software application life Youtube, Gmail, etc...
 
 ● Global Infrastructure - It has over 43 geographical regions and 130 zones, using one of the most advance private networks.
